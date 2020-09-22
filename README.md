@@ -1,6 +1,7 @@
 # react-app
 
-----------------------------------REACT DEFAUT APP--------------------------------------
+REACT DEFAUT APP
+
 To run this succesfully, do the following:
 -- npm init
 -- npm install
